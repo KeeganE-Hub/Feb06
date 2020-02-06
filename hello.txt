@@ -1,1 +1,2 @@
 Hello, it's Keegan 
+Adding a new line with append! 
